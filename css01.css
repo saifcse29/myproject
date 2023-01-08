@@ -1,0 +1,207 @@
+*{
+    /* margin: 0; */
+    font-family: 'Open Sans', sans-serif;
+}
+/* font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right; */
+/* div{
+    background-color: #005FAC;
+} */
+/* header{
+position: absolute;
+width: 1600px;
+height: 808px;
+} */
+/* div{
+    background-image: url(H:\project\portfolio\images\banner\banner3.png);
+} */
+.wrapper{
+    background-image: url('images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    
+}
+.span{
+    color: orangered;
+}
+.head{
+
+/* font-weight: 525px
+font-height:  228px; */
+font-style: normal;
+font-size: 50px;
+line-height: 76px;
+text-align: right;
+margin-left: 845px;
+margin-top: 216px;
+margin-right: 30px;
+color: black;
+
+}
+.p1{
+    margin-left: 845px;
+    margin-top: 24px;
+
+}
+.button{
+border-radius: 5%;
+font-style:bold;
+font-weight: 400px;
+position: absolute;
+width: 160px;
+height: 64px;
+margin-left: 1150px;
+margin-top: 32px;
+background-color:  #FFFFFF;
+color: #005FAC;
+border:none
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+#saif{
+    margin-right: 97px;
+}
+.banner-title{
+    width:288px;
+    height:94px;
+    font-weight: 700;
+    font-size: 40px;
+    font-style:normal;
+}
+.banner-des
+{
+    width: 414px;
+    height: 104px;
+    margin-bottom: 60px;
+}
+.failiure{
+    /* position:relative; */
+    
+}
+
+/* this year plans styles */
+.section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+    margin-top: 112.7px;
+}
+
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.Always{
+    width: 459px;
+    height: 15px;
+    margin-left: 32px;
+    margin-top: 32px;
+    margin-bottom: 5px;
+
+}
+#button01{
+    margin-left: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+    font-style:bold;
+    font-weight: 400px;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+
+    background-color:  #FFFFFF;
+    color: #005FAC;
+    border:black
+    
+    }
+    .bg
+    {
+        background-image: url(../portfolio/images/watch.png);
+        
+    }
+
+    .call{
+        background-color: darkviolet;
+
+    }
+
+    /* Subscribe styles */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #151414;
+    padding: 130px 200px;
+    margin-top: 130px;
+}
+
+.contact .section-title {
+    text-align: left;
+    color: white;
+}
+.contact .email{
+    color: white; 
+}
+.contact .phone{
+    color: white;
+}
+.contact .section-description{
+    color: white;
+    Width:485px;
+    height:78px;
+    text-align: justify;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+
+input{
+    height: 64px;
+}
+#input-mail{
+    width: 325px;
+    height: 50px;
+    border-radius: 8px;
+
+}
+.input-primary{
+    width: 170px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #005FAC;
+    
+
+}
+.contact a{
+    text-decoration: none;
+}
