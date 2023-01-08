@@ -144,7 +144,7 @@ border:none
     }
     .bg
     {
-        background-image: url(../portfolio/images/watch.png);
+        background-image: url('images/watch.png');
         
     }
 
